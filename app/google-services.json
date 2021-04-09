@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "930931724961",
+    "project_id": "com-example-diplomaproject",
+    "storage_bucket": "com-example-diplomaproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930931724961:android:c167ca7acf7d0bfb7a96e0",
+        "android_client_info": {
+          "package_name": "com.example.diplomaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930931724961-8lr7rt96shjdovid2jpi061af0lc0n6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diplomaproject",
+            "certificate_hash": "99f8d820adb5b19451a37ed47fc02cde893ec67b"
+          }
+        },
+        {
+          "client_id": "930931724961-ub39iq7e2qe2jis479kvpec5lct9dme7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzXsQOHlC2lkuh0xmLsuxMBxPMCK3jBq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930931724961-ub39iq7e2qe2jis479kvpec5lct9dme7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
